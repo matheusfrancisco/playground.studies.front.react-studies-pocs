@@ -2,7 +2,7 @@
 
 My first next js website repo static [here](Githubb.com/matheusfrancisco/matheusfrancisco.github.io)
 
-![image](/home.jpeg)
+![image](https://github.com/matheusfrancisco/simple-projects-frontend/blob/master/spa-github-page-template/home.jpeg)
 
 
 # Development
